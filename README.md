@@ -1,2 +1,2 @@
-# kaggle-fetal-health-classification
-Kaggle Fetal Health Classification Task
+# Kaggle Fetal Health Classification
+Kaggle task to classify fetal health in order to prevent child and maternal mortality.
